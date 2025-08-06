@@ -81,11 +81,11 @@ export default function Index() {
                 Claim Rainbow Children Center
               </h1>
               <div className="flex  flex-col text-sm text-muted-foreground">
-                <div className="flex gap-1">
+                <div className="flex gap-1 items-center">
                   <MapPin className="w-4 h-4" />
                   <span>789 Pine Road, Springfield, IL</span>
                 </div>
-                <div className="flex gap-1">
+                <div className="flex gap-1 items-center">
                   <Shield className="w-4 h-4" />
                   <span>child care center #LICENSE-56dcca16</span>
                 </div>
